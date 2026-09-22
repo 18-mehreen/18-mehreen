@@ -20,24 +20,15 @@
 
 ## 👩‍💻 Who I Am
 
-```typescript
-const mehreen = {
-  title: "Computer Science Student | Aspiring Data Analyst & AI/ML Engineer",
-  stack: {
-    languages: ["Python", "C++", "SQL", "JavaScript", "TypeScript"],
-    frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "FastAPI"],
-    database: ["MySQL", "MongoDB", "Prisma ORM"],
-    dataAndAI: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Power BI", "Machine Learning"],
-    tools: ["Git", "GitHub", "VS Code", "Jupyter Notebook", "Google Colab", "Postman", "Vercel"]
-  },
-  launchedProjects: ["PersonaPortfolio Builder"],
-  certifications: [],
-  status: "Building AI-powered tools & sharpening my data analytics skills",
-  openTo: "Full-time roles, internships & collaborations in Data Analytics / AI-ML"
-};
-```
+I'm a **Computer Science student** focused on **Data Analytics, AI/ML, and software development**.
 
+I work with **Python, C++, SQL and JavaScript**, and have experience building applications with **React, Next.js, FastAPI, and Node.js**.
+
+My data and AI toolkit includes **Pandas, NumPy, Scikit-learn, Matplotlib, Machine Learning, and Power BI**, along with databases such as **MySQL and MongoDB**.
+
+I enjoy turning data and ideas into practical applications, combining **data analysis, machine learning, problem solving, and full-stack development**.
+
+> 🎯 **Focus:** Data Analytics · AI/ML · Full-Stack Development · Problem Solving
 <br/>
 
 ## 🚀 Featured Projects
