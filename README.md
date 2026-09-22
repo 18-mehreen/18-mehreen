@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=220&section=header&text=Mehreen%20Yaqoob&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Data%20Analyst%20%26%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://img.magnific.com/premium-photo/futuristic-ai-intelligence-science-machine-network-datum-background-banner-with-intelligence-futuris_1349627-17692.jpg>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst+%26+AI%2FML+Engineer;Building+with+Python%2C+React+%26+Machine+Learning;Turning+Data+Into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
