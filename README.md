@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="./banner.png" width="100%" alt="AI Engineering">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst+%26+AI%2FML+Engineer;Building+with+Python%2C+React+%26+Machine+Learning;Turning+Data+Into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
